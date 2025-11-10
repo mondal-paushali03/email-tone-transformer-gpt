@@ -1,0 +1,7 @@
+transformers>=4.40.0
+accelerate>=0.30.0
+sentencepiece
+torch>=2.1.0
+gradio>=4.36.0
+textwrap3
+regex
